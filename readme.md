@@ -49,6 +49,8 @@ This service is to abstract omnibus operations (virtual accounts) and integratio
 
 * Use the template to draft a POC implementation on how it would look like to implement APIs for communication between the investment wallet system, payment gateway, and omnibus
 
+* State any futuer work, stuff you wanted to work on but couldn't due to time limitations or stuff you experimented it with but discarded it eventually
+* 
 ### Assumptions During POC Implementations
 
 * assume that you already have authenticated and authorized users to use the invesmet-wallet services
